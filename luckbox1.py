@@ -3,7 +3,7 @@
         print("\nWelcome to the Lucky Box Game! Choose a box (1-6):")
         
         # Randomly assign awards to the 6 boxes
-        box_contents = random.sample(awards, 6)
+        contents = random.sample(awards, 6)
         
         try:
             choice = int(input("Enter your box number (1-6): "))
