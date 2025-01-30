@@ -25,3 +25,4 @@
             print(f"Thanks for playing! You played {total_games} games and won {total_wins} times. See you next time!")
             break
 
+import random
