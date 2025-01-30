@@ -5,7 +5,7 @@ def lucky_box_game():
         "Vacation Trip", "TV", "Gaming Console", "Watch", "Bicycle", "Camera", "Tablet",
         "Wireless Earbuds", "Fitness Tracker", "Backpack", "Sneakers", "Concert Tickets",
         "Movie Tickets", "Shopping Voucher", "Dinner for Two", "Coffee Maker", "E-Reader",
-        "VR Headset", "Board Game Set", "Gym Membership", "Bluetooth Speaker",
+        "VR Headset", "Board Game Set", "Smart Speaker", "Bluetooth Speaker", "Portable Charger",
         "Action Camera", "Smart Home Device", "Streaming Subscription", "Smartwatch",
         "Luxury Perfume", "Cooking Set", "Home Theater System", "Drone", "Sunglasses",
         "Digital Notebook", "Electric Scooter", "Fitness Equipment", "Gaming Chair",]
