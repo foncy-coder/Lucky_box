@@ -1,4 +1,4 @@
- while True:
+while True:
         total_games += 1
         print("\nWelcome to the Lucky Box Game! Choose a box (1-6):")
         
